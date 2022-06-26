@@ -1,14 +1,14 @@
-<h2 align=center> Hi there! <img src="assets/Hi.gif" width="25"> </h2>
+<h3 align=center> Hi there! <img src="assets/Hi.gif" width="25"> </h3>
 
 <div align="center">
-  <img  alt="Coffee GIF" src="assets/coffee.gif" width="320" height="180"/>
+  <img  alt="Coffee GIF" src="assets/coffee.gif" width="360" height="200"/>
 </div>
 
 <br>
 
 <div align=center>
   <p> I'm Italo, a self-motivated front-end web development student and a tech-savvy! 💻 </p>
-  <p><strong>🌱 Currently building vanilla JavaScript projects | 💭 ping me about front-end, web design. <strong></p> 
+  <p><strong>🌱 Currently improving vanilla JavaScript skills | 💭 Ping me about front-end, web design. <strong></p> 
 </div>
 
 ##
