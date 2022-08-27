@@ -28,17 +28,14 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
-## Reach me:
-<div>
+##
+<div align="center">
   <a href="https://www.linkedin.com/in/italo-guimaraes13/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:italogdaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:italoguimaraes13@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>  
+  </a> 
 </div>
 
   
