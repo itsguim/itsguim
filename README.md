@@ -11,22 +11,21 @@
   <p><strong>🌱 Currently improving vanilla JavaScript skills | 💭 Ping me about front-end, web design. <strong></p> 
 </div>
 
-##
-
+<br>    
 <div align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,figma,git"/>
   </a>
 </div>
 
-
 <br>
 
 <div align="center">
   <a href="https://github.com/itsguim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsguim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/><br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=itsguim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+
 
 ##
 <div align="center">
@@ -38,4 +37,5 @@
   </a> 
 </div>
 
+  ![Snake animation](https://github.com/itsguim/itsguim/blob/output/github-contribution-grid-snake.svg)
   
