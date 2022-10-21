@@ -12,7 +12,8 @@
 </div>
 
 <br>    
-<div align=center>
+
+ <div align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,figma,git"/>
   </a>
@@ -22,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/itsguim">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=itsguim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itsguim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 
