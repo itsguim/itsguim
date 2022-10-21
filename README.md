@@ -1,4 +1,4 @@
-<h3 align=center> Hi there! <img src="assets/Hi.gif" width="25"> </h3>
+<h2 align=center> Hi there! <img src="assets/Hi.gif" width="25"> </h2>
 
 <div align="center">
   <img  alt="Coffee GIF" src="assets/coffee.gif" width="360" height="200"/>
