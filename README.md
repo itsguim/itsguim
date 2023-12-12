@@ -7,8 +7,8 @@
 <br>
 
 <div align=center>
-  <p> I'm Italo, a self-motivated front-end web development student and a tech-savvy! 💻 </p>
-  <p><strong>🌱 Currently improving vanilla JavaScript skills | 💭 Ping me about front-end, web design. <strong></p> 
+  <p> I'm Italo, a front-end web development professional and a tech-savvy! 💻 </p>
+  <p><strong>🌱 Practicing React.js and studying SEO | 💭 Ping me about front-end :) <strong></p> 
 </div>
 
 <br>    
