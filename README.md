@@ -35,8 +35,11 @@
   </a>
   <a href="mailto:italogdaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> 
+  </a>
+   <a href="mailto:italoguimaraes13@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </div>
 
-  ![Snake animation](https://github.com/itsguim/itsguim/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/itsguim/itsguim/blob/output/github-contribution-grid-snake.svg) -->
   
