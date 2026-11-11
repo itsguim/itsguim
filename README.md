@@ -6,47 +6,26 @@
 
 <br>
 
-<div align=center>
-  <p> I'm Italo, a front-end web development professional and a tech-savvy! 💻 </p>
-  <p><strong>🌱 Practicing React.js and studying SEO | 💭 Ping me about front-end :) <strong></p> 
+<div>
+  <p> I'm Italo, and my main focus is solving problems in the tech field. Creating solutions to improve processes is my passion 📊 </p>
+  <ul>
+    <li>💻 Software developer with the full-web (but not limited to) stack domain!</li>
+    <li>📚 Focused on specializing in requirements analysis</li>
+    <li>🌞 Eager to deliver polished software that meets users' needs</li>
+    <li>🔧 A passion for understanding the inner workings of everything related to software design</li>
+  </ul>
+  
 </div>
 
 <br>    
 
  <div align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,nodejs,html,css,bootstrap,tailwind,git"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,postgres,react,tailwind"/>
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/itsguim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itsguim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsguim&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-
 ##
-<div align="center">
-  <a href="https://www.linkedin.com/in/italo-guimaraes13/">
-    <div>
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </div>   
-  </a>
- 
-  <a href="mailto:italogdaraujo@gmail.com">
-    <div>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </div>    
-  </a>
- 
-  <a href="mailto:italoguimaraes13@hotmail.com">
-    <div>
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </div>
-  </a>
-</div>
-
- <!-- ![Snake animation](https://github.com/itsguim/itsguim/blob/output/github-contribution-grid-snake.svg) -->
   
